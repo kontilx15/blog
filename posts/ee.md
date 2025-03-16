@@ -1,6 +1,6 @@
----
-title: "Post Pertama"
-date: "2025-03-16"
----
-Ini adalah contoh post pertama.
+[category]: <> (General,Blockchains)
+[date]: <> (2018/08/07)
+[title]: <> (A Guide to 99% Fault Tolerant Consensus)
+[pandoc]: <> (--mathjax)
 
+OII
